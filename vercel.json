@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/analyze-product.ts": {
+      "maxDuration": 30
+    }
+  }
+}
